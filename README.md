@@ -16,6 +16,6 @@ A professional repository tracking my daily progress and solutions for LeetCode 
 ```
 What you'll find here
 
-This GitHub is a collection of things I'm learning and building.
+This Repo is a collection of things I'm learning and building.
 
 Some repositories are structured projects, some are experiments.
