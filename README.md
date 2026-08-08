@@ -19,3 +19,5 @@ What you'll find here
 This Repo is a collection of things I'm learning and building.
 
 Some repositories are structured projects, some are experiments.
+
+ **How I Use AI:** I use AI as an assistant. When i don't understand a hard problem or get stuck on a query error, i use it to break down the concept. I use AI to learn the logic, and then i write the code myself.
